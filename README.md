@@ -16,6 +16,8 @@ Can be used on its own, but shines when combined with:
 
 Forked to make changes that can't be easily done in a separate repository. (The easy changes are also brought into this for consolidation.)
 
+- Additional Obsidian commands
+
 ## Installation
 
 ### Prerequisites
