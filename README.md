@@ -12,6 +12,10 @@ Can be used on its own, but shines when combined with:
 - [AXKit](https://github.com/phillco/talon-axkit) (macOS only) to enhance Talon with native OS accessibility integrations
 - [Other user file sets](https://talon.wiki/talon_user_file_sets/)
 
+## This Fork
+
+Forked to make changes that can't be easily done in a separate repository. (The easy changes are also brought into this for consolidation.)
+
 ## Installation
 
 ### Prerequisites
