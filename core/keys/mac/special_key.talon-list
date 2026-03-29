@@ -15,4 +15,4 @@ tab: tab
 insert: insert
 wipe: backspace
 delete: backspace
-forward delete: delete
+forward delete|feet: delete

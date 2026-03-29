@@ -7,6 +7,6 @@ alt: alt
 control: ctrl
 shift: shift
 # super is the windows key
-super: super
+super|windows: super
 command: ctrl
 option: alt
