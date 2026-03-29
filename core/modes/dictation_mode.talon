@@ -74,3 +74,16 @@ spell that <user.formatters> <user.letters>:
 
 # Escape, type things that would otherwise be commands
 ^escape <user.text>$: user.dictation_insert(user.text)
+
+# Trigger dictation mode smoothly on "dictate"
+dictate [<phrase>]$:
+    mode.enable("dictation")
+    user.parse_phrase(phrase or "")
+
+# Exit on saying "over"
+over [<phrase>]$:
+    user.command_mode(phrase or "")
+
+^para|paragraph$:
+    key(enter)
+	repeat(1)
