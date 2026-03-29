@@ -18,6 +18,12 @@ Forked to make changes that can't be easily done in a separate repository. (The 
 
 - Additional Obsidian commands
 
+## This Fork
+
+Forked to make changes that can't be easily done in a separate repository. (The easy changes are also brought into this for consolidation.)
+
+- Additional Obsidian commands
+
 ## Installation
 
 ### Prerequisites
