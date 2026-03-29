@@ -1,0 +1,16 @@
+list: user.system_paths
+hostname: DESKTOP-F4H0L4E
+-
+user: C:\Users\Carter David
+desktop: C:\Users\Carter David\Desktop
+desk: C:\Users\Carter David\Desktop
+documents: C:\Users\Carter David\Documents
+docks: C:\Users\Carter David\Documents
+downloads: C:\Users\Carter David\Downloads
+music: C:\Users\Carter David\Music
+pictures: C:\Users\Carter David\Pictures
+videos: C:\Users\Carter David\Videos
+talon home: C:\Users\Carter David\AppData\Roaming\talon
+talon recordings: C:\Users\Carter David\AppData\Roaming\talon\recordings
+talon user: C:\Users\Carter David\AppData\Roaming\talon\user
+profile: C:\Users\Carter David
