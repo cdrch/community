@@ -1,0 +1,5 @@
+list: user.search_engine
+-
+
+duckduck: https://duckduckgo.com/?q=%s
+wiki: https://en.wikipedia.org/w/index.php?search=%s
